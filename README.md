@@ -8,7 +8,8 @@ Debéis hacerlo vía fork, y yo os debo autorizar el merge en el repo, siguiendo
 1. Debéis hacer el fork de la rama Develop
 2. Crearos una rama Features para hacer vuestras cosas (al menos 2 commits)
 3. Volcar vuestra rama Feature en Develop.
-4. Hacer un PR de Develop.
-5. Esperad la autorización.
+4. Hacer el push a vuestra propia Develop.
+5. Hacer un PR de Develop.
+6. Esperad la autorización del fork.
 
 
